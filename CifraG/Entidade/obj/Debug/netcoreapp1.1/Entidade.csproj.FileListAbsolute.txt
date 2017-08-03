@@ -1,0 +1,12 @@
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Entidade.deps.json
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Entidade.csprojResolveAssemblyReference.cache
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Entidade.Mensagens.Mensagem.resources
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Entidade.Mensagens.Termo.resources
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Entidade.csproj.GenerateResource.Cache
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Entidade.AssemblyInfo.cs
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Entidade.dll
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Entidade.pdb
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Infraestrutura.dll
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Infraestrutura.pdb
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Entidade.dll
+c:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Entidade.pdb

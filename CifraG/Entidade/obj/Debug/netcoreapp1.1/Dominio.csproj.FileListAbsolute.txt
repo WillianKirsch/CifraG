@@ -1,0 +1,12 @@
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Dominio.deps.json
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Dominio.dll
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Dominio.pdb
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Infraestrutura.dll
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\bin\Debug\netcoreapp1.1\Infraestrutura.pdb
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Dominio.Mensagens.Mensagem.resources
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Dominio.Mensagens.Termo.resources
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Dominio.csproj.GenerateResource.Cache
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Dominio.AssemblyInfo.cs
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Dominio.dll
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Entidade\obj\Debug\netcoreapp1.1\Dominio.pdb

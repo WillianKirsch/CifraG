@@ -1,0 +1,13 @@
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Servico\bin\Debug\netcoreapp1.1\Servico.deps.json
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Servico\obj\Debug\netcoreapp1.1\Servico.csprojResolveAssemblyReference.cache
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Servico\obj\Debug\netcoreapp1.1\Servico.AssemblyInfo.cs
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\bin\Debug\netcoreapp1.1\Servico.dll
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\bin\Debug\netcoreapp1.1\Servico.pdb
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\bin\Debug\netcoreapp1.1\Dominio.dll
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\bin\Debug\netcoreapp1.1\Infraestrutura.dll
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\bin\Debug\netcoreapp1.1\Persistencia.dll
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\bin\Debug\netcoreapp1.1\Dominio.pdb
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\bin\Debug\netcoreapp1.1\Persistencia.pdb
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\bin\Debug\netcoreapp1.1\Infraestrutura.pdb
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\obj\Debug\netcoreapp1.1\Servico.dll
+C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\Servico\obj\Debug\netcoreapp1.1\Servico.pdb
