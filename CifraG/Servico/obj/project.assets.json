@@ -8494,8 +8494,8 @@
     },
     "Dominio/1.0.0": {
       "type": "project",
-      "path": "../Entidade/Dominio.csproj",
-      "msbuildProject": "../Entidade/Dominio.csproj"
+      "path": "../Dominio/Dominio.csproj",
+      "msbuildProject": "../Dominio/Dominio.csproj"
     },
     "Infraestrutura/1.0.0": {
       "type": "project",
@@ -8535,8 +8535,8 @@
             "C:\\Users\\willian.kirsch\\Source\\Repos\\CifraG\\CifraG\\Persistencia\\Persistencia.csproj": {
               "projectPath": "C:\\Users\\willian.kirsch\\Source\\Repos\\CifraG\\CifraG\\Persistencia\\Persistencia.csproj"
             },
-            "C:\\Users\\willian.kirsch\\Source\\Repos\\CifraG\\CifraG\\Entidade\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\willian.kirsch\\Source\\Repos\\CifraG\\CifraG\\Entidade\\Dominio.csproj"
+            "C:\\Users\\willian.kirsch\\Source\\Repos\\CifraG\\CifraG\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\willian.kirsch\\Source\\Repos\\CifraG\\CifraG\\Dominio\\Dominio.csproj"
             }
           }
         }

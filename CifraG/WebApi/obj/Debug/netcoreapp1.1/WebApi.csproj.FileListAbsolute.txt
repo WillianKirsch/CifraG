@@ -15,3 +15,20 @@ C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\WebApi\bin\
 C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\WebApi\bin\Debug\netcoreapp1.1\Persistencia.pdb
 C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\WebApi\obj\Debug\netcoreapp1.1\WebApi.dll
 C:\Users\willian.kirsch\Documents\visual studio 2017\Projects\CifraG\WebApi\obj\Debug\netcoreapp1.1\WebApi.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\WebApi.deps.json
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\WebApi.runtimeconfig.json
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\WebApi.runtimeconfig.dev.json
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\WebApi.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\WebApi.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\Dominio.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\Infraestrutura.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\Persistencia.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\Servico.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\Dominio.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\Servico.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\Infraestrutura.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\bin\Debug\netcoreapp1.1\Persistencia.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\obj\Debug\netcoreapp1.1\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\obj\Debug\netcoreapp1.1\WebApi.AssemblyInfo.cs
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\obj\Debug\netcoreapp1.1\WebApi.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\WebApi\obj\Debug\netcoreapp1.1\WebApi.pdb

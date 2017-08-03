@@ -9,3 +9,14 @@ C:\Users\willian.kirsch\Documents\Visual Studio 2017\Projects\CifraG\Persistenci
 C:\Users\willian.kirsch\Documents\Visual Studio 2017\Projects\CifraG\Persistencia\obj\Debug\netcoreapp1.1\Persistencia.AssemblyInfo.cs
 C:\Users\willian.kirsch\Documents\Visual Studio 2017\Projects\CifraG\Persistencia\obj\Debug\netcoreapp1.1\Persistencia.dll
 C:\Users\willian.kirsch\Documents\Visual Studio 2017\Projects\CifraG\Persistencia\obj\Debug\netcoreapp1.1\Persistencia.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\bin\Debug\netcoreapp1.1\Persistencia.deps.json
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\bin\Debug\netcoreapp1.1\Persistencia.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\bin\Debug\netcoreapp1.1\Persistencia.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\bin\Debug\netcoreapp1.1\Dominio.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\bin\Debug\netcoreapp1.1\Infraestrutura.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\bin\Debug\netcoreapp1.1\Dominio.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\bin\Debug\netcoreapp1.1\Infraestrutura.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\obj\Debug\netcoreapp1.1\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\obj\Debug\netcoreapp1.1\Persistencia.AssemblyInfo.cs
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\obj\Debug\netcoreapp1.1\Persistencia.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Persistencia\obj\Debug\netcoreapp1.1\Persistencia.pdb

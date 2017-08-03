@@ -4,3 +4,10 @@ C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Infraestrut
 C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Infraestrutura\obj\Debug\netcoreapp1.1\Infraestrutura.AssemblyInfo.cs
 C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Infraestrutura\obj\Debug\netcoreapp1.1\Infraestrutura.dll
 C:\Users\willian.kirsch\documents\visual studio 2017\Projects\CifraG\Infraestrutura\obj\Debug\netcoreapp1.1\Infraestrutura.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Infraestrutura\bin\Debug\netcoreapp1.1\Infraestrutura.deps.json
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Infraestrutura\bin\Debug\netcoreapp1.1\Infraestrutura.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Infraestrutura\bin\Debug\netcoreapp1.1\Infraestrutura.pdb
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Infraestrutura\obj\Debug\netcoreapp1.1\Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Infraestrutura\obj\Debug\netcoreapp1.1\Infraestrutura.AssemblyInfo.cs
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Infraestrutura\obj\Debug\netcoreapp1.1\Infraestrutura.dll
+C:\Users\willian.kirsch\Source\Repos\CifraG\CifraG\Infraestrutura\obj\Debug\netcoreapp1.1\Infraestrutura.pdb
